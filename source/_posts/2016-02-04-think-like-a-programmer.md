@@ -7,8 +7,8 @@ description: "The importance of a growth mindset."
 keywords: ""
 categories:
 - Positive Mental Attitude
--Life Advice
--Basics
+- Life Advice
+- Basics
 tags:
 - We made it
 - Apple, the only way
